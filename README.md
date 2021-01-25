@@ -1,1 +1,2 @@
-# Escopo-Site
+Escopo site para discussões filosóficas
+
